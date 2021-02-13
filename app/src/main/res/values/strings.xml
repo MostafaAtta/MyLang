@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="login">Login</string>
+    <string name="language" translatable="false">Language</string>
+    <string name="english" translatable="false">English</string>
+    <string name="arabic" translatable="false">عربي</string>
+
+    <string-array name="cities">
+        <item>Cairo</item>
+        <item>Alex</item>
+        <item>Giza</item>
+        <item>Luxor</item>
+        <item>Tanta</item>
+    </string-array>
+</resources>

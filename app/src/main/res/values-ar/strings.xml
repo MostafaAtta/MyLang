@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="login">تسجيل الدخول</string>
+
+
+    <string-array name="cities">
+        <item>القاهرة</item>
+        <item>الاسكندرية</item>
+        <item>الجيزة</item>
+        <item>الاقصر</item>
+        <item>طنطا</item>
+    </string-array>
+</resources>
